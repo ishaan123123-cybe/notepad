@@ -6,7 +6,7 @@ from tkinter import ttk, messagebox, filedialog, simpledialog
 import pygame
 from mutagen import File as MutagenFile
 import enchant
-
+#half of feautres dont work anymore, like saving. Sorry
 import sys
 import webbrowser
 
